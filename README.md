@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">About me</h2>
+<h1 data-importer="text" align="left">About me</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Tech Stack</h2>
+<h1 data-importer="text" align="left">Tech Stack</h1>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Contact</h2>
+<h1 data-importer="text" align="left">Contact</h1>
 
 ###
 
