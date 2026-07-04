@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Mouhsine, a Data Engineering student at ENSIAS, passionate about building data-driven solutions and designing efficient, reliable information systems.</p>
+<p data-importer="text" align="left">I'm Mouhsine, a Data Engineering student at ENSIAS, passionate about building data-driven solutions and designing efficient and reliable information systems.</p>
 
 ###
 
