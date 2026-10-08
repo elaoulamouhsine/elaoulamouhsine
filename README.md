@@ -2,7 +2,8 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Mouhsine, a Data Engineering student at ENSIAS, passionate about building data-driven solutions and designing efficient and reliable information systems.</p>
+<p data-importer="text" align="left">I'm Mouhsine, an Information Systems Engineering student at Grenoble INP–ENSIMAG and a double-degree student from ENSIAS, with a strong background in Data Engineering. I'm passionate about designing reliable, scalable, and efficient information systems, as well as building data-driven solutions.
+</p>
 
 ###
 
